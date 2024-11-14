@@ -42,6 +42,8 @@ Ex. my_set = {1, 2, 3}
 
 To add a value to a set you can use the add() function.
 To remove a value from a set you can use the remove() function.
+
+Sets are useful when comparing data. It is easy to check if different sets have common values or if one set has a value that another set does not.
 """
 
 classes = {"Math", "Physics", "Chemistry"}
